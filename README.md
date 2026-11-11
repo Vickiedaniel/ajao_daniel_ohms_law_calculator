@@ -39,8 +39,11 @@ Result: Voltage (V) = 20.0000 V
 ```
 
 ## My own twist
-I included 20 mathematical formulas related to voltage, power, current, and circuits for quick reference.
+I included 20 mathematical formulas related to voltage, power, current, and circuits.
 
 ## What I learned
 1. I learnt how to structure program logic, use proper indentation, and correct syntax.
 2. The project helped me learn how important accuracy is in coding.
+
+##Author
+Ajao Daniel Adekola,ND1 Mechatronics Engineering,Yabatech
